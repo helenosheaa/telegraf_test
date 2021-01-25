@@ -1,3 +1,1 @@
 telegraf_test
-
-Hello
